@@ -1,0 +1,18 @@
+{
+  "name": "test-scrap",
+  "version": "1.0.0",
+  "description": "Well some tasks to do for X reason",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doryu",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.4.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "tmp-promise": "^3.0.3",
+    "uuid": "^11.1.0"
+  }
+}
